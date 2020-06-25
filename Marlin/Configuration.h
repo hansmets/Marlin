@@ -1689,6 +1689,7 @@
  *
  */
 #define SDSUPPORT
+#define SDCARD_CONNECTION ONBOARD
 
 /**
  * SD CARD: SPI SPEED
